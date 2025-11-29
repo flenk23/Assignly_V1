@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <footer className="bg-foreground text-background py-12">
       <div className="container mx-auto px-4 text-center">
-        <div className="text-xl font-bold mb-4">LeadRouter</div>
+        <div className="text-xl font-bold mb-4">Assignly</div>
         <p className="text-sm opacity-75 mb-6">
           Instant Lead Qualification & Assignment for B2B SaaS
         </p>
