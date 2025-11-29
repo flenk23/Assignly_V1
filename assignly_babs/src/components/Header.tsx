@@ -11,7 +11,7 @@ const Header = () => {
       <div className="container mx-auto px-4 py-5">
         <nav className="flex items-center justify-between">
           <div className="text-2xl font-bold text-primary-foreground tracking-tight">
-            LeadRouter
+            Assignly
           </div>
           
           <ul className="hidden md:flex items-center gap-8">
